@@ -1,4 +1,4 @@
-module github.com/santekno/golang-belajar-repository-pattern
+module github.com/santekno/learn-golang-repository-pattern
 
 go 1.20
 

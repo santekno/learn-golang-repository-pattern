@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	model "github.com/santekno/golang-belajar-repository-pattern/model"
+	model "github.com/santekno/learn-golang-repository-pattern/model"
 )
 
 func (repo *CommentRepo) Insert(ctx context.Context, comment model.Comment) (model.Comment, error) {

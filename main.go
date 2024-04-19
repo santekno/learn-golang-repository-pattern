@@ -8,8 +8,8 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 
-	"github.com/santekno/golang-belajar-repository-pattern/model"
-	repository "github.com/santekno/golang-belajar-repository-pattern/repository"
+	"github.com/santekno/learn-golang-repository-pattern/model"
+	repository "github.com/santekno/learn-golang-repository-pattern/repository"
 )
 
 func main() {

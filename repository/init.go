@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	model "github.com/santekno/golang-belajar-repository-pattern/model"
+	model "github.com/santekno/learn-golang-repository-pattern/model"
 )
 
 type CommentRepo struct {
